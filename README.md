@@ -2,8 +2,6 @@
 
 I build tools that keep you in the flow of work — Orca plugins, local tools for Claude, and web services for shops and teams. All open source.
 
-**Portfolio → [net-runners-com.github.io](https://net-runners-com.github.io)**
-
 #### Orca plugins
 
 | | |
